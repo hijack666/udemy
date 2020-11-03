@@ -1,0 +1,2 @@
+Методы СТРОК https://learn.javascript.ru/string    https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String
+Методы ЧИСЕЛ https://learn.javascript.ru/number   https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Number

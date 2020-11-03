@@ -1,0 +1,20 @@
+Angular: фреймворк
+-node.js
+-typescript
+-webpack
+-MVC pattern (шаблон проектирования)
+-Angular
+
+React: библиотека, можно смешивать с другими библами, а также верстка+скрипты бывают совмещены (JSX)
+-node.js
+-JSX (препроцессор)
+-Babel (компилирует в js)
+-webpack
+-React
+
+Vue.js:
+-node.js
+-js
+-webpack
+-Vue
+
